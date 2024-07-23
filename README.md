@@ -2,7 +2,7 @@
 
 ## About Me
 Hey there! I'm Dipankar Saha, a passionate and aspiring Data Scientist based in Kolkata. 
-I love to explore new technologies, solve challenging problems, and contribute to open-source projects. 
+With a keen interest in exploring new technologies and solving challenging problems, I thrive on contributing to open-source projects and making a difference through code.
 Currently, I'm a student pursuing BCA.
 
 ## 🔧 Technologies & Tools
