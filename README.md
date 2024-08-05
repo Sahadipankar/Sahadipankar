@@ -1,3 +1,4 @@
+![logo](https://github.com/Sahadipankar/Sahadipankar/blob/main/My%20Github%20Banner.png)
 <h1 align="center">Welcome to my GitHub Profile!<br>Hi 👋, I'm Dipankar Saha</h1>
 <h3 align="center">A passionate and aspiring Software Engineer based in Kolkata.<br>Every day is a new opportunity to learn and grow</h3>
 
