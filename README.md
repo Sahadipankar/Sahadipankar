@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently pursuing my **BCA - Hons**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Sahadipankar)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Sahadipankar/College-Practice-Coding)
   
 - <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -53,15 +53,13 @@
 - 💬 Ask me about:
   - **C**
   - **Python**
+  - **DSA**
   - **Java**
   - **JavaScript**
+  - **DBMS**
   - **HTML**
   - **CSS**
   - **Arduino**
-  - **Data Structures and Algorithms**
-  - **Data Science and Machine Learning**
-  - **Interesting coding projects**
-  - **Problem-solving techniques**
     
 - 🌱 I’m currently learning **Java and DBMS**
   
