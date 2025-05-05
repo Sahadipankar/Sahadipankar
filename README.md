@@ -82,18 +82,17 @@
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <h3>Ask me about:</h3>
-      <ul>
-        <li><strong>C</strong></li>
-        <li><strong>Python</strong></li>
-        <li><strong>DSA</strong></li>
-        <li><strong>Java</strong></li>
-        <li><strong>JavaScript</strong></li>
-        <li><strong>DBMS</strong></li>
-        <li><strong>HTML</strong></li>
-        <li><strong>CSS</strong></li>
-        <li><strong>Arduino</strong></li>
-      </ul>
+<h3>💡 Areas of Expertise</h3>
+    <ul>
+      <li><strong>Programming Languages:</strong> C, Python, Java, JavaScript, PHP</li>
+      <li><strong>Web Development:</strong> HTML5, CSS3, Sass, JavaScript, React.js, Node.js, Express.js</li>
+      <li><strong>Database Management:</strong> MySQL, MongoDB</li>
+      <li><strong>Data Structures & Algorithms (DSA)</strong></li>
+      <li><strong>Database Systems (DBMS)</strong></li>
+      <li><strong>IoT & Embedded Systems:</strong> Arduino</li>
+      <li><strong>Version Control:</strong> Git & GitHub</li>
+      <li><strong>Data Analysis:</strong> Pandas (Python Library)</li>
+    </ul>
     </td>
     <td width="900" valign="center" style="border: none;">
       <h3>GitHub Stats:</h3>
@@ -106,7 +105,9 @@
 
 - 🌱 I’m currently learning **| Full-Stack Developement (MERN, Java, Python) |**
 
-- 📫 How to reach me **[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sahadepankar@gmail.com)**
+- 📫 How to reach me <br>
+
+  -  **[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sahadepankar@gmail.com)**
 
 - 💡 Fun fact<br>
   **Did you know? My first program was a "Hello World!" script. Now, I dream of creating AI that says "Hello Universe!" 🌌**
