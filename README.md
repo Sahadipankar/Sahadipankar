@@ -137,6 +137,9 @@
   </a>
   <a href="https://instagram.com/akash_.raj" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash_.raj" height="30" width="40" />
+  </a>
+  <a href="https://x.com/SahaDipankar04" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
   </a><br>
 </p>
 
