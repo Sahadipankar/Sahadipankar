@@ -3,7 +3,7 @@
 <h1 align="center">Welcome to my GitHub Profile!<br>Hi, 👋 I'm Dipankar Saha</h1>
 <h3 align="center">A passionate and aspiring Software Engineer based in Kolkata.<br>Every day is a new opportunity to learn and grow</h3>
 
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
+<img align="right" alt="coding" width="440" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sahadipankar&label=Profile%20views&color=0e75b6&style=flat" alt="sahadipankar" />
