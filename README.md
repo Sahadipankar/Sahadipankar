@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=sahadipankar&label=Profile%20views&color=0e75b6&style=flat" alt="sahadipankar" />
 </p>
 
-- 🔭 I’m currently pursuing my **BCA - Hons**
+- 🔧 I’m currently focused on **DevOps Engineering** — learning to build scalable, automated, and secure deployment pipelines.
 
 - 👨‍💻 All of my college learnings are available at [**College-Practice-Coding**](https://github.com/Sahadipankar/College-Practice-Coding)
 
@@ -105,11 +105,6 @@
     </td>
   </tr>
 </table>
-
-<hr>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sahadipankar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <hr>
 
