@@ -3,13 +3,17 @@
 <h1 align="center">Welcome to my GitHub Profile!<br>Hi, 👋 I'm Dipankar Saha <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="32"></h1>
 <h3 align="center">A passionate and aspiring Software Engineer based in Kolkata.<br>Every day is a new opportunity to learn and grow</h3>
 
-<br>
+<h3 align="left">🔗 Personal Portfolio</h3>
+<p align="left">
+  <a href="https://dipankar-saha-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Click%20Here%20to%20View-FF006E?style=flat-square&logo=firefox&logoColor=white" />
+    <a href="https://github.com/Sahadipankar?tab=followers"><img src="https://img.shields.io/github/followers/Sahadipankar?label=Followers&style=social"></a> <img src="https://komarev.com/ghpvc/?username=sahadipankar&label=Profile%20views&color=0e75b6&style=flat" alt="sahadipankar" /> 
+  </a>
+</p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
-<p align="left">
-  <a href="https://github.com/Sahadipankar?tab=followers"><img src="https://img.shields.io/github/followers/Sahadipankar?label=Followers&style=social"></a> <img src="https://komarev.com/ghpvc/?username=sahadipankar&label=Profile%20views&color=0e75b6&style=flat" alt="sahadipankar" /> 
-</p>
+- 🧠 Data Science Intern
 
 - 🚀 Currently diving into DevOps Engineering.
 
