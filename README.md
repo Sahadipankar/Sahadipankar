@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sahadipankar&label=Profile%20views&color=0e75b6&style=flat" alt="sahadipankar" />
+  <a href="https://github.com/Sahadipankar?tab=followers"><img src="https://img.shields.io/github/followers/Sahadipankar?label=Followers&style=social"></a> <img src="https://komarev.com/ghpvc/?username=sahadipankar&label=Profile%20views&color=0e75b6&style=flat" alt="sahadipankar" /> 
 </p>
 
 - 🚀 Currently diving into DevOps Engineering.
