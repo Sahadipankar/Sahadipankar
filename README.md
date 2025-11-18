@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Sample Image" width="1000" height="400">
 
-<h1 align="center">Welcome to my GitHub Profile!<br>Hi, 👋 I'm Dipankar Saha <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="34"></h1>
+<h1 align="center">Welcome to my GitHub Profile!<br>Hi, 👋 I'm Dipankar Saha <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"></h1>
 <h3 align="center">A passionate and aspiring Software Engineer based in Kolkata.<br>Every day is a new opportunity to learn and grow</h3>
 
 <br>
