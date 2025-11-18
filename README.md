@@ -1,7 +1,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Sample Image" width="1000" height="400">
 
-<h1 align="center">Welcome to my GitHub Profile!<br>Hi, 👋 I'm Dipankar Saha</h1>
+<h1 align="center">Welcome to my GitHub Profile!<br>Hi, 👋 I'm Dipankar Saha <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="34"></h1>
 <h3 align="center">A passionate and aspiring Software Engineer based in Kolkata.<br>Every day is a new opportunity to learn and grow</h3>
+
+<br>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
@@ -87,21 +89,24 @@
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <td width="50%" valign="top" style="border: none;">
-<h3>💡 Areas of Expertise</h3>
-    <ul>
-      <li><strong>Programming Languages:</strong> C, Python, Java, JavaScript, PHP</li>
-      <li><strong>Web Development:</strong> HTML5, CSS3, Sass, JavaScript, React.js, Node.js, Express.js</li>
-      <li><strong>Database Management:</strong> MySQL, MongoDB</li>
-      <li><strong>Data Structures & Algorithms (DSA)</strong></li>
-      <li><strong>Database Systems (DBMS)</strong></li>
-      <li><strong>IoT & Embedded Systems:</strong> Arduino</li>
-      <li><strong>Version Control:</strong> Git & GitHub</li>
-      <li><strong>Data Analysis:</strong> Pandas (Python Library)</li>
-    </ul>
+<h3>💼 Highlights</h3>
+  <ul>
+    <li><strong>Data Science Intern (Sabudh Foundation):</strong> Worked on ML, DL, NLP & Recommender Systems.</li>
+    <li><strong>ML & AI Skills:</strong> Regression, Classification, EDA, Model Building, Data Cleaning.</li>
+    <li><strong>Python Stack:</strong> NumPy, Pandas, Matplotlib, Seaborn.</li>
+    <li><strong>Full Stack Development:</strong> React, Next.js, Node.js, Express.js, MongoDB, MySQL.</li>
+    <li><strong>Cloud & Deployment:</strong> Vercel, Render, Firebase, GitHub Actions.</li>
+    <li><strong>Core Competencies:</strong> Problem-solving, clean code, debugging, system design basics.</li>
+  </ul>
     </td>
     <td width="900" valign="center" style="border: none;">
-      <h3>GitHub Stats:</h3>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahadipankar&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="sahadipankar" width="100%" style="border: none;" />
+<img 
+  align="center" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahadipankar&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
+  alt="top langs" 
+  width="100%" 
+  style="border: none;" 
+/>
     </td>
   </tr>
 </table>
