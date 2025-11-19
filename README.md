@@ -134,10 +134,14 @@
 
 <hr>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahadipankar&bg_color=0d1117&color=08e8ff&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" />
+</p>
 
 <hr>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
