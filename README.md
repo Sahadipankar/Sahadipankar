@@ -112,13 +112,14 @@
     <li><strong>Full Stack Development:</strong> React, Next.js, Node.js, Express.js, MongoDB, MySQL.</li>
     <li><strong>Cloud & Deployment:</strong> Vercel, Render, Firebase.</li>
     <li><strong>Core Competencies:</strong> Problem-solving, clean code, debugging, system design basics.</li>
+    <br>
   </ul>
     </td>
     <td width="900" valign="center" style="border: none;">
 <img 
   align="center" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahadipankar&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
-  alt="top langs" 
+  alt="Most Used Languages" 
   width="100%" 
   style="border: none;" 
 />
