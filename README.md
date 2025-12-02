@@ -10,8 +10,6 @@
   <a href="https://dipankar-saha-portfolio.netlify.app">
     <img src="https://img.shields.io/badge/Click%20Here%20to%20View-FF006E?style=flat-square&logo=firefox&logoColor=white" />
   </a>
-  [Visit My Portfolio](https://dipankar-saha-portfolio.netlify.app)
-
 
   <!-- Followers Badge -->
   <a href="https://github.com/Sahadipankar?tab=followers">
