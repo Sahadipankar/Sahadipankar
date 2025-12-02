@@ -7,8 +7,13 @@
 <p align="left">
   <a href="https://dipankar-saha-portfolio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Click%20Here%20to%20View-FF006E?style=flat-square&logo=firefox&logoColor=white" />
-    <a href="https://github.com/Sahadipankar?tab=followers"><img src="https://img.shields.io/github/followers/Sahadipankar?label=Followers&style=social"></a> <img src="https://komarev.com/ghpvc/?username=sahadipankar&label=Profile%20views&color=0e75b6&style=flat" alt="sahadipankar" /> 
   </a>
+
+  <a href="https://github.com/Sahadipankar?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/Sahadipankar?label=Followers&style=social">
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=sahadipankar&label=Profile%20views&color=0e75b6&style=flat" alt="sahadipankar" />
 </p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
