@@ -7,7 +7,7 @@
 <p align="left">
 
   <!-- Portfolio Link -->
-  <a href="https://dipankar-saha-portfolio.netlify.app">
+  <a href="https://dscodes.tech">
     <img src="https://img.shields.io/badge/Click%20Here%20to%20View-FF006E?style=flat-square&logo=firefox&logoColor=white" />
   </a>
 
