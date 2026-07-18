@@ -142,24 +142,13 @@
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <td width="50%" valign="top" style="border: none;">
-      <img align="top" src="https://github-readme-stats.vercel.app/api?username=Sahadipankar&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="sahadipankar" width="100%" style="border: none;" />
+      <img align="top" src="https://github-readme-stats.vercel.app/api?username=Sahadipankar&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Stats" width="100%" style="border: none;" />
     </td>
     <td width="50%" valign="center" style="border: none;">
-      <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahadipankar&theme=radical&hide_border=true" alt="sahadipankar" width="100%" style="border: none;" />
+      <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahadipankar&theme=radical&hide_border=true" alt="Total Contributions" width="100%" style="border: none;" />
     </td>
   </tr>
 </table>
-
-<hr>
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sahadipankar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<hr>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahadipankar&bg_color=0d1117&color=08e8ff&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" />
-</p>
 
 <hr>
 
