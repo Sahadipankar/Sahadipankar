@@ -1,7 +1,7 @@
 <img src="https://github.com/Sahadipankar/Sahadipankar/blob/main/readme.gif" alt="Sample Image" width="1000" height="400">
 
 <h1 align="center">Welcome to my GitHub Profile!<br>Hi, 👋 I'm Dipankar Saha <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="32"></h1>
-<h3 align="center">A dedicated Software Engineer, Full Stack Developer <br> and Data Scientist Based in Kolkata.</h3>
+<h3 align="center">AWS Certified Cloud Practioner, Full Stack Developer <br> and Data Scientist Based in Kolkata.</h3>
 
 <h3 align="left">🔗 Personal Portfolio</h3>
 <p align="left">
